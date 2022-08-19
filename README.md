@@ -11,7 +11,7 @@
 4. If you made high score, then it will show username which you have beaten with their respected score.
 
 # Preview
-![quiz](Preview _knowmequiz.png)
+![quiz](https://raw.githubusercontent.com/divikjuneja17/Do-You-Know-Me-Quiz/main/Preview%20_knowmequiz.png)
 
 # Packages used:
 [readline-sync](https://www.npmjs.com/package/readline-sync)
